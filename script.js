@@ -27,7 +27,7 @@
 
 // this.name=name;
 // this.email=email;
-    
+
 //     }
 
 
@@ -62,3 +62,30 @@
 // };
 
 // console.log(product.discountedPrice());
+
+
+
+
+// SEction 2  classes and Objects
+
+
+// q1
+
+
+// class Car {
+//     constructor(brand, speed) {
+//         this.brand = brand;
+//         this.speed = speed;
+//     }
+
+//     drive(){
+//         return(this.brand+'-'+this.speed);
+//     }
+// };
+
+
+// let c1=new Car("a",20);
+// console.log(c1.drive());
+// let c2=new Car('b',40);
+// console.log(c2.drive());
+
