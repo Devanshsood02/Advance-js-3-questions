@@ -89,3 +89,52 @@
 // let c2=new Car('b',40);
 // console.log(c2.drive());
 
+
+
+// section 3  constructor and  this keyword
+
+// q1
+
+// class Student {
+
+//     constructor(name, roll_number) {
+//         this.name = name;
+//         this.roll_number = roll_number;
+//     }
+//     introduce() {
+//         console.log(this.name + " " + this.roll_number);
+//     }
+
+// }
+
+// let s1=new Student("dev",21);
+
+
+
+
+
+
+// q2
+
+// let obj = {
+
+//     sayname: function () {
+//         console.log(this);
+//     },
+
+//     sayarrow: () => {
+//         console.log(this);
+//     }
+// }
+
+// obj.sayname();                // object milega
+// obj.sayarrow();              // isme window milega kyunki arrow function apne parent se value leta hai iska parent object hai jo ki global space me bna hai isliye window ans aa rha hai 
+
+
+
+
+
+
+
+
+
