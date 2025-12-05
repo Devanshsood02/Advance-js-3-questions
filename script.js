@@ -156,3 +156,28 @@
 
 // let u1=new User();
 
+
+
+
+
+// section 5 call apply bind 
+
+
+// q1
+
+// function abcd(){
+//     console.log(this.name);
+
+// }
+
+
+// let obj={
+//     name:"dev",
+// };
+
+// abcd.call(obj);
+
+
+
+
+
