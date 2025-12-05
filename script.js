@@ -138,3 +138,21 @@
 
 
 
+// section 4 constructor functions and prototypes
+
+
+// q1
+
+// function User(){
+//     this.name='dev';
+//     // this.login=function(){
+//     //     console.log('logged');
+//     // }
+// }
+
+// User.prototype.login=function(){
+//     console.log("logged in");
+// }
+
+// let u1=new User();
+
